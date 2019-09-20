@@ -8,5 +8,22 @@ Write the code followed by Django from the beginning to make polls that can voti
  * Django 2.1.2 or newer
  * Python add-on modules as in [requirements.txt](requirements.txt)
  
-### project by
-Kannipa Prayoonpruk
+## How to run
+
+1. open in terminal
+```bash
+cd django-polls/mysite
+```
+
+2. run server 
+- by MacOs or Linux:
+```bash
+python3 manage.py runserver
+```
+
+- by Windows:
+```bash
+py manage.py runserver
+```
+
+
