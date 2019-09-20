@@ -26,5 +26,4 @@ python3 manage.py runserver
 py manage.py runserver
 ```
 
-### project by
-Kannipa Prayoonpruk
+
